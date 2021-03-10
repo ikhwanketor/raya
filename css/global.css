@@ -359,7 +359,7 @@ pre {
 :root {
   --accent-color: #ed5f74;
   --headline-color: var(--accent-color);
-  --logo-image: url("https://drive.google.com/open?id=1t71n6uySiQgH4SWgDiQYcK3_yewJBlkm");
+  --logo-image: url("https://storage.googleapis.com/stripe-sample-images/logo-pasha.svg");
 }
 
 .pasha-image-stack {
